@@ -2,5 +2,5 @@
 
 Hello there 👋
 
-This is a tests repo from [Test automation University course on advanced Cypress](https://testautomationu.applitools.com/advanced-cypress-tutorial/).
+This repo contains Cypress test files from [Test Automation University course on advanced Cypress](https://testautomationu.applitools.com/advanced-cypress-tutorial/).
 
